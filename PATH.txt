@@ -1,0 +1,3 @@
+URL: \\eusgenailabmaashackpre.file.core.windows.net\genailab-maas-hackathonpre
+User: localhost\eusgenailabmaashackpre
+Password: YelA9z1gKabS9BZC2MEsavcOkukUJL+oHSIu+MGq7unxF/4dgPxb44RrOle6+5ovncv+RFHDXKP8+ASt5Soa1w==
